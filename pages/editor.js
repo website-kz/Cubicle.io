@@ -1,6 +1,5 @@
 import { useEffect } from 'react';
 import EditorCanvas from '../components/EditorCanvas';
-import '../styles/editor.css';
 import { useRouter } from 'next/router';
 
 export default function Editor() {
